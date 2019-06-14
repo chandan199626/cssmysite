@@ -1,0 +1,20 @@
+body {
+    background-color: cornsilk;
+}
+hr {
+    border-color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+
+}
+h1{
+    color: #66Bfbf;
+}
+h2{
+    color: #66Bfbf;
+}
+h3{
+    color: #66Bfbf
+}
